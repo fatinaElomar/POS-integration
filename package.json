@@ -12,6 +12,7 @@
   "dependencies": {
     "dotenv": "^16.4.5",
     "node": "^22.5.1",
-    "shopify-api": "^0.2.3"
+    "shopify-api": "^0.2.3",
+    "shopify-api-node": "^3.13.4"
   }
 }
