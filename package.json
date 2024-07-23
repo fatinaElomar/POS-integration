@@ -1,0 +1,17 @@
+{
+  "name": "pos-integration",
+  "version": "1.0.0",
+  "description": "the concept pantry pos integrate with shopify store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node": "^22.5.1",
+    "shopify-api": "^0.2.3"
+  }
+}
